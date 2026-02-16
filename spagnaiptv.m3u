@@ -1,0 +1,60 @@
+#EXTM3U x-tvg-url="https://example.com/epg.xml"
+
+# --- GENERALISTAS ---
+
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/La_1_logo_2021.svg/512px-La_1_logo_2021.svg.png" group-title="Generalistas",La 1 HD
+URL_AQUI
+
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/La_2_logo_2021.svg/512px-La_2_logo_2021.svg.png" group-title="Generalistas",La 2 HD
+URL_AQUI
+
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Antena_3_2022_logo.svg/512px-Antena_3_2022_logo.svg.png" group-title="Generalistas",Antena 3 HD
+URL_AQUI
+
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telecinco_logo_2014.svg/512px-Telecinco_logo_2014.svg.png" group-title="Generalistas",Telecinco HD
+URL_AQUI
+
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cuatro_2019_logo.svg/512px-Cuatro_2019_logo.svg.png" group-title="Generalistas",Cuatro HD
+URL_AQUI
+
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="laSexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/LaSexta_2019_logo.svg/512px-LaSexta_2019_logo.svg.png" group-title="Generalistas",laSexta HD
+URL_AQUI
+
+
+# --- NOTICIAS ---
+
+#EXTINF:-1 tvg-id="24h.es" tvg-name="Canal 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canal_24_Horas_logo_2021.svg/512px-Canal_24_Horas_logo_2021.svg.png" group-title="Noticias",Canal 24H
+URL_AQUI
+
+
+# --- DEPORTES ---
+
+#EXTINF:-1 tvg-id="tdp.es" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Teledeporte_logo_2021.svg/512px-Teledeporte_logo_2021.svg.png" group-title="Deportes",Teledeporte
+URL_AQUI
+
+
+# --- INFANTIL ---
+
+#EXTINF:-1 tvg-id="clan.es" tvg-name="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Clan_TVE_logo_2021.svg/512px-Clan_TVE_logo_2021.svg.png" group-title="Infantil",Clan
+URL_AQUI
+
+
+# --- SERIES Y TEMÁTICOS ---
+
+#EXTINF:-1 tvg-id="neox.es" tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Neox_logo_2022.svg/512px-Neox_logo_2022.svg.png" group-title="Series",Neox
+URL_AQUI
+
+#EXTINF:-1 tvg-id="nova.es" tvg-name="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nova_logo_2022.svg/512px-Nova_logo_2022.svg.png" group-title="Series",Nova
+URL_AQUI
+
+#EXTINF:-1 tvg-id="mega.es" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mega_logo_2022.svg/512px-Mega_logo_2022.svg.png" group-title="Documentales",Mega
+URL_AQUI
+
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Atreseries_logo_2022.svg/512px-Atreseries_logo_2022.svg.png" group-title="Series",Atreseries
+URL_AQUI
+
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Divinity_logo_2016.svg/512px-Divinity_logo_2016.svg.png" group-title="Entretenimiento",Divinity
+URL_AQUI
+
+#EXTINF:-1 tvg-id="energy.es" tvg-name="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Energy_logo_2012.svg/512px-Energy_logo_2012.svg.png" group-title="Entretenimiento",Energy
+URL_AQUI
