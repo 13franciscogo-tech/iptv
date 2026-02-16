@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, TN - Todo Noticias tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
-https://www.youtube.com/live/cb12KmMMDJA?si=YUcKtPCWqG8MWfCV
-
-#EXTINF:-1, A24 argentina tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/A24_%28Argentina%29_logo.svg" group-title="Argentina", A24
-https://www.youtube.com/live/ArKbAx1K-2U?si=zK_6ETz1QEKmX4_r
-
 #EXTINF:-1,Match (RUSIA)
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1,PRUEBA
