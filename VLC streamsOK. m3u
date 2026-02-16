@@ -1,0 +1,155 @@
+#EXTM3U
+
+#EXTINF:-1, TN - Todo Noticias tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
+https://www.youtube.com/live/cb12KmMMDJA?si=YUcKtPCWqG8MWfCV
+
+#EXTINF:-1, A24 argentina tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/A24_%28Argentina%29_logo.svg" group-title="Argentina", A24
+https://www.youtube.com/live/ArKbAx1K-2U?si=zK_6ETz1QEKmX4_r
+
+#EXTINF:-1,Match (RUSIA)
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1,PRUEBA
+http://127.0.0.1:6878/ace/getstream?id=9631cb5f80b75db8beaf2fa1d85491f5d98e9568
+#EXTINF:-1,PRUEBA 2
+http://127.0.0.1:6878/ace/getstream?id=654f0c4ea8d63699dea55ded45ca0b99648c3c94
+#EXTINF:-1,PRUEBA 3
+http://127.0.0.1:6878/ace/getstream?id=fd2c048e705909c546089bb07d026ea4066fc7da
+#EXTINF:-1,PRUEBA 4
+http://127.0.0.1:6878/ace/getstream?id=9631cb5f80b75db8beaf2fa1d85491f5d98e9568
+#EXTINF:-1,Match 3 (RUSIA)
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1,Canal Deportes
+http://127.0.0.1:6878/ace/getstream?id=af3e4e9fcc5a69848b7f84d3fcf2c4de72bf1b4b
+#EXTINF:-1,DAZN 1 (ALEMANIA)
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1,Sky Sport (UK)
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1,Sky Sport+ (inglés)
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1,BT Sport 1 (UK)
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1,Match (RUSIA) opción 2
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1,Canal Deportes
+http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1,Canal Deportes
+http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1,Pimple TV (ruso)
+http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1,Canal FS1
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1,SETANTA 1 (ruso)
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1,SETANTA 2 (ruso)
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1,Eurosport 1 (ruso)
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1,Sky Sport F1 (UK)
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1,TVP Sport (polaco)
+http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1,POLSAT Sport premium 2 HD (polaco)
+http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1,BEIN Sports 2 (francés)
+http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1,ESPN 2 (holandés)
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1,Planeta (ruso)
+http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
+#EXTINF:-1,Fútbol 3 (ruso)
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1,Fútbol 1 (ruso)
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1,Fútbol 2 op2 (ruso) La Liga
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1,Fútbol 2 (ruso) La Liga
+http://127.0.0.1:6878/ace/getstream?id=4fb7d7f128d371205a6bce4caf4a3d68664728cf
+#EXTINF:-1,Sky Sport (inglés)
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1,DAZN 1 Portugal
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1,DAZN 2 Portugal
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1,DAZN 3 Portugal
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1,DAZN 4 Portugal
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1,DAZN 1 (alemán)
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1,Sport Digital FSBL (alemán)
+http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1,TNT Sport (inglés)
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1,TNT Sport op2 (inglés)
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1,Acetop 1 (ruso)
+http://127.0.0.1:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1,Acetop 2 (ruso)
+http://127.0.0.1:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1,Acetop 3 (ruso)
+http://127.0.0.1:6878/ace/getstream?id=99da47072cf6d0d9323479791026c48961889557
+#EXTINF:-1,Start (ruso)
+http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1,Ziggo Sport (holandés)
+http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1,Ziggo Sport 2 (holandés)
+http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1,TNT Sports 3 (inglés)
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1,TNT Sports 4 (inglés)
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1,DAZN 2 (alemán)
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1,Premiere Sport 1 (inglés)
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1,DAZN 3 (inglés)
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1,ESP?
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1,Canal+ Sport Polonia
+http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1,Match Ruso Strana
+http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
+
+#EXTINF:-1,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+
+
+#EXTINF:-1,FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1,Arradia Sport
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
+
+#EXTINF:-1,Billard TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?
+
+#EXTINF:-1,TNT Sports 2
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1,TNT Sports 3
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1,TNT Sports 4
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+
+#EXTINF:-1,Canal+ Sport 2 (1080i)
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1,DW español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1,Movistar Liga de Campeones
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1,BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1,France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+https://iptv-org.github.io/channels/gr/CosmoteSportHighlights#HD
+https://iptv-org.github.io/channels/pt/SportTV1
+
+LEÑA DE CANALES
+#https://iptv-org.github.io/iptv/index.m3u
+
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+
+
