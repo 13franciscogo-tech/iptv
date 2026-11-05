@@ -25,4 +25,5 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 http://192.168.1.10:8888/MovistarTV.m3u 
 
 #EXTINF:-1 group-title="Movistar",Mv2
-http://192.168.1.10:8888/Canales.m3u8
+http://kdd55.xyz:80/get.php?username=8G55UG51TCGDYNQ&password=oCkwCymud9&type=m3u_plus
+
