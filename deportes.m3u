@@ -21,5 +21,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="Noticias Internacional",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
-#EXTINF:-1 group-title="Noticias Internacional",BBC News
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="Movistar",Mv
+http://192.168.1.10:8888/MovistarTV.m3u 
+
+#EXTINF:-1 group-title="Movistar",Mv2
+http://192.168.1.10:8888/Canales.m3u8
