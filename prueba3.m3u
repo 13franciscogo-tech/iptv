@@ -6,6 +6,10 @@ https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es@SD",Mijas 3.40TV (720p)
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 group-title="Andaluces",Mijas Costa
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 group-title="Deportes Internacional",FIFA+
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
 https://pirilampotv.top/live-tv/tvi.html
