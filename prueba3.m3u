@@ -20,3 +20,5 @@ https://pirilampotv.top/live-tv/tvi.html
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
 https://pirilampotv.top/live-tv/cmtv.html
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",CanalCosta (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
