@@ -1,28 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
-https://www.youtube.com/live/cb12KmMMDJA?si=YUcKtPCWqG8MWfCV
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/A24_%28Argentina%29_logo.svg" group-title="Argentina", A24
-https://www.youtube.com/live/ArKbAx1K-2U?si=zK_6ETz1QEKmX4_r
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="Nazaré Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/A24_%28Argentina%29_logo.svg" group-title="Webcams", Nazaré Live
-https://www.youtube.com/live/k1vObaJ5uMs
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/A24_%28Argentina%29_logo.svg" group-title="Argentina", TDT
-https://www.tdtchannels.com/lists/tv.m3u8
-
-
-#EXTINF:-1,YouTube Live
-https://www.youtube.com/watch?v=k1vObaJ5uMs
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
-https://pirilampotv.top/live-tv/tvi.html
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
-https://pirilampotv.top/live-tv/cmtv.html
 #EXTINF:-1 tvg-id="CanalCosta.es@SD",CanalCosta (1080p)
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaNoroesteTV.es@SD",Costa Noroeste TV (1080p) [Not 24/7]
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es@SD",Mijas 3.40TV (720p)
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
+https://pirilampotv.top/live-tv/tvi.html
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
+https://pirilampotv.top/live-tv/cmtv.html
