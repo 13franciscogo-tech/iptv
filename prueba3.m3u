@@ -136,9 +136,10 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
 https://static.lefigaro.fr/secom/tnt.m3u8
 
-
+#EXTINF:-1 group-title="Portugal",Sport TV1
+https://cdn.hdm1.net/SPT1/tracks-v1a1/mono.m3u8?token=U1BUMXxub19jaGVja19pcHwxNzk1MDE4ODQz.1f190cb5a3c33ccd1699f1df9d2abcf68201e139a5e8a0e45d9e0ddfaa2997fa
 #EXTINF:-1 group-title="Portugal",CMTV
-https://simple.amazingtier.top/CMTVPT/tracks-v1a1/mono.m3u8
+https://simple.amazingtier.top/CMTVPT/index.m3u8?token=Q01UVlBUfG5vX2NoZWNrX2lwfDE3OTUwMTkxOTY=.1e7582efe11820236cdc3f4697173df49009137a2493dd2f81cb98502f4c04ca
 #EXTINF:-1 tvg-id="RTP1.pt@HD",RTP 1 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
