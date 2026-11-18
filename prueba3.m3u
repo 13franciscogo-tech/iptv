@@ -136,6 +136,8 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
 https://static.lefigaro.fr/secom/tnt.m3u8
 
+#EXTINF:-1 group-title="Portugal",Sport TV1
+https://cdn.hdm1.net/SPT1/index.m3u8?token=U1BUMXxub19jaGVja19pcHwxNzk1MDIxNzg1.f522bdfce2f8472d8592b79b770d0cc3b8b89cc004f29a15f34cc0a0496d2462
 
 #EXTINF:-1 group-title="Portugal",TVI
 https://simple.amazingtier.top/TVI/tracks-v1a1/mono.m3u8?token=VFZJfG5vX2NoZWNrX2lwfDE3OTUwMjE0OTE%3D.94425a91aefbf6e7335cb949c6abe3336573646e49e6121169805aa74f1b5806
