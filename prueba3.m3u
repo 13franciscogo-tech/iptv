@@ -136,6 +136,8 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
 https://static.lefigaro.fr/secom/tnt.m3u8
 
+#EXTINF:-1 group-title="Portugal",Benfica TV
+https://cdn.hdm1.net/BTV1/tracks-v1a1/mono.m3u8?token=QlRWMXxub19jaGVja19pcHwxNzk1MDIwNDE4.014e962b95572fa6047c8f44fb7f897089df77f821b84b9ef5f169402afe14c7
 #EXTINF:-1 group-title="Portugal",Sport TV1
 https://cdn.hdm1.net/SPT1/tracks-v1a1/mono.m3u8?token=U1BUMXxub19jaGVja19pcHwxNzk1MDE4ODQz.1f190cb5a3c33ccd1699f1df9d2abcf68201e139a5e8a0e45d9e0ddfaa2997fa
 #EXTINF:-1 group-title="Portugal",CMTV
