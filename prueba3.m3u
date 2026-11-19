@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="CanalCosta.es@SD",CanalCosta (1080p)
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w2029324185.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w292120485.m3u8
