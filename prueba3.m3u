@@ -101,7 +101,8 @@ http://zntx.dyndns.org:8085/hls/stv7.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt@SD",Sport TV+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
-
+#EXTINF:-1 tvg-id="SportTVPlus.pt@SD",Cadiz CF TV
+https://d3k6ckytm22qfj.cloudfront.net/wct-137a7607-8a40-49cb-b2f3-dda201b86376/continuous/f5ab1872-5cb1-4541-9c67-30ae765453ec/1080p_25fps_h264_high_4.4M_aac_128k.m3u8
 
 
 
@@ -116,7 +117,10 @@ https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoria.de@ES",Pluto TV Historia (720p)
 https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 
-
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",El Confidencial
+https://d2x0ptujt9cf22.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-bsk8edpvt6m4t/4dac4f38-5bf9-4354-a192-4571f98e5c89/0.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",El Toro TV
+https://edge-nodo-003.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",Euronews Spanish (1080p)
 https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (1080p)
