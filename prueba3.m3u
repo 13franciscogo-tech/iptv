@@ -261,3 +261,19 @@ https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Webcams" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Sevilla - Plaza de San Francisco
+https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
+#EXTINF:-1 group-title="Webcams" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Sevilla - Giralda desde Mateos Gago
+https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
+#EXTINF:-1 group-title="Webcams" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Sevilla - Puente de Triana
+https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Islantilla - Playa central
+https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Islantilla - Panorámica desde campo de golf
+https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Cádiz - Playa de la Victoria
+https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Sta Cruz de Tenerife - Teide
+https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
+
+https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
