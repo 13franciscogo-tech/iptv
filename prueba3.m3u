@@ -1,10 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",7TV Cádiz
+https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cocina Andalucía
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cartaya TV
+https://video3.lhdserver.es/cartayatv/live.m3u8
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-id="CanalCosta.es@SD",CanalCosta (1080p)
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleonuba",Teleonuba
 https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/chunklist_w1875138135.m3u8
+#EXTINF:-1 tvg-id="Teleonuba",Huelva conecta
+https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
 
 #EXTINF:-1 tvg-id="CostaNoroesteTV.es@SD",Costa Noroeste TV (1080p) [Not 24/7]
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
@@ -12,6 +21,10 @@ https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 group-title="Andaluces",Mijas Costa
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+#EXTINF:-1 group-title="España",Ceuta TV
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(BXQhJAeAKqeSFSKVUg8XFhvo80-ABuFCruzqlratLPNkjXpZZKfhD_MjDEfHYAKpUWswpUD7No1jTUWcf-BeawSQRX28Ydho4dwA75wtsHsfuiKWOLv56miIPcsfHrEd)/cloud/3/x9f7miq/d/live-720.m3u8
+
 #EXTINF:-1 group-title="Deportes Internacional",FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
@@ -106,9 +119,10 @@ https://d3k6ckytm22qfj.cloudfront.net/wct-137a7607-8a40-49cb-b2f3-dda201b86376/c
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="SportTVPlus.pt@SD",Star TV RTVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="SportTVPlus.pt@SD",GBC Gibraltar
+https://live-ak.vimeocdn.com/exp=1795118881~acl=%2Fef9990b8-7d4f-479b-a8f4-4b6398c33542%2F%2A~hmac=20cfbb05c1b2f3c7bde5851db495feaf3f766e94873a88058810a161129d6ce2/ef9990b8-7d4f-479b-a8f4-4b6398c33542/avc/540p/chunklist.m3u8?_HLS_skip=YES
 
 #EXTINF:-1 tvg-id="CurroJimenez.us@Spain",Curro Jiménez
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
@@ -223,6 +237,8 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Marruecos",2M
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/1f57cb9d-3dd1-469a-a9c1-f64cefa1f406/3.m3u8
+#EXTINF:-1 tvg-id="Marruecos",Medi TV
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/corp/83_medi1tv-arabic_g90v4ec_1080p/chunks_dvr.m3u8
 
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia do Norte
