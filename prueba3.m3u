@@ -144,9 +144,33 @@ https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
 https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="RTenEspanol.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT.ru.png",RT en español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTNEspanol.cn.png",CGTN Español
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBCNews.uk.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="DW.de@Espanol" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
+
+#EXTINF:-1 group-title="TV" tvg-id="NauticalChannel.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NauticalChannel.it.png",Nautical Channel
+#https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+
 
 #EXTINF:-1 group-title="Portugal",Sport TV1
 https://cdn.hdm1.net/SPT1/index.m3u8?token=U1BUMXxub19jaGVja19pcHwxNzk1MDIxNzg1.f522bdfce2f8472d8592b79b770d0cc3b8b89cc004f29a15f34cc0a0496d2462
+
+#EXTINF:-1 group-title="TV" tvg-id="ConecTVAlgarve.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ConecTVAlgarve.pt.png",ConecTV Algarve
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SICNoticias.pt.png",SIC Notícias
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+#EXTVLCOPT:http-origin=https://sicnoticias.pt
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 group-title="Portugal",TVI
 https://simple.amazingtier.top/TVI/tracks-v1a1/mono.m3u8?token=VFZJfG5vX2NoZWNrX2lwfDE3OTUwMjE0OTE%3D.94425a91aefbf6e7335cb949c6abe3336573646e49e6121169805aa74f1b5806
@@ -197,5 +221,43 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/1f57cb9d-3dd1-469a-a9c1-f64cefa1f406/3.m3u8
 
 
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Praia do Norte Panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Forte S. Miguel Arcanjo Panorâmica Norte
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Forte S. Miguel Arcanjo Panorâmica
+https://video-auth1.iol.pt/beachcam/bcarcanjo2/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Forte S. Miguel Arcanjo
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Forte S. Miguel Arcanjo | Baía
+https://video-auth1.iol.pt/beachcam/bcarcanjopraia/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Porto de Abrigo
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Sagres
+https://video-auth1.iol.pt/beachcam/bcsagres/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde | Castro Marim
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Porto Santo
+https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Açores - Ribeira Grande
+https://video-auth1.iol.pt/beachcam/bcribeiragrande/playlist.m3u8
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lisboa | Belém
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lisboa - Cais do Sodré
+https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
 
 
