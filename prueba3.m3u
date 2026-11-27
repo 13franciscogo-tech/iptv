@@ -302,6 +302,28 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
 https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
 
 
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:3873
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.990,
+https://hddn55.skylinewebcams.com/1089livic-1795767724424.ts
+#EXTINF:4.000,
+https://hddn55.skylinewebcams.com/1089livic-1795767728616.ts
+#EXTINF:4.000,
+https://hddn55.skylinewebcams.com/1089livic-1795767732606.ts
+#EXTINF:4.000,
+https://hddn55.skylinewebcams.com/1089livic-1795767738307.ts
+#EXTINF:4.000,
+https://hddn55.skylinewebcams.com/1089livic-1795767742194.ts
+#EXTINF:3.990,
+https://hddn55.skylinewebcams.com/1089livic-1795767746143.ts
+#EXTINF:4.000,
+https://hddn55.skylinewebcams.com/1089livic-1795767750004.ts
+
+
+
+
+
 
 #EXTINF:-1 group-title="Guinea Ecuatorial",TVGE
 https://rpn.bozztv.com/ses/tvge/tvge.smil/chunklist_w56782799_b2560000_t64NzIwcA==.m3u8
