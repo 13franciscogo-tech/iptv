@@ -2,18 +2,20 @@
 
 ###  Andalucia ###
 
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://canalcostatv.es/wp-content/uploads/2020/06/logo-cabecera-cc.png",Canal Costa
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://canalcostatv.es/wp-content/uploads/2020/06/logo-cabecera-cc.png",Canal Costa (Huelva)
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://imgs.search.brave.com/zSJD-rHXeOdvJTgKV4PiP4MaW4bxvOVK_lmFpPguSks/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZkL0Nh/bmFsU3VyMS5zdmcv/MjUwcHgtQ2FuYWxT/dXIxLnN2Zy5wbmc",Canal Cocina Andalucía
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+
 #EXTINF:-1 tvg-id="7tv cai?",7TV Cádiz
 https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
-#EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cocina Andalucía
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+
 #EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cartaya TV
 https://video3.lhdserver.es/cartayatv/live.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-id="CanalCosta.es@SD",CanalCosta (1080p)
-https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
-https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Teleonuba",Teleonuba
 https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/chunklist_w1875138135.m3u8
 #EXTINF:-1 tvg-id="Teleonuba",Huelva conecta
