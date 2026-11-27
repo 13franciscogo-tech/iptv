@@ -258,6 +258,8 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="Marruecos",Al Aoula
 https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_240p/chunks_dvr.m3u8?token=Slz6-ZBZJvRfB2ifVdDpLRznlyB-qan4IgUyq9kZA0k&expires=1795776813&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
+#EXTINF:-1 group-title="Marruecos" tvg-logo="https://www.livehdtv.net/uploads/kanal/29810Al%20Maghribia%20logo.png",Al Maghribia live
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8?token=bNtRZP_srdkzoQRYtYE9oG1To4JPIxJ8q3LWw2tGGe8&expires=1795776949&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q
 
 #EXTINF:-1 tvg-id="Marruecos",2M
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/1f57cb9d-3dd1-469a-a9c1-f64cefa1f406/3.m3u8
