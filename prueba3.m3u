@@ -96,9 +96,9 @@ http://158.172.155.130:8000/play/a0dp/index.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master480p.m3u8
 
 ###  Deportes ###
-#EXTINF:-1 group-title="China" tvg-logo="https://digitalhub.fifa.com/transform/befe3a64-328b-453c-8b58-0faeb9103684/FIFA_Logo_White_Generic?&io=transform:fill&quality=75",FIFA+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://digitalhub.fifa.com/transform/befe3a64-328b-453c-8b58-0faeb9103684/FIFA_Logo_White_Generic?&io=transform:fill&quality=75",FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Deportes Internacional",Snooker 24/7
+#EXTINF:-1 group-title="Deportes",Snooker 24/7
 https://snooker900.tv/api/live/1080p/stream.m3u8?t=eyJhbGciOiJIUzI1NiJ9.eyJjaCI6ImxpdmUiLCJpYXQiOjE3OTU3Nzg4ODAsImV4cCI6MTc5NTc3OTE4MH0.BhEfALGa6sjkVtJNGRImRyar2SfW8OgFCfu0L8ykmxc
 https://snooker900.tv/api/live/1080p/stream.m3u8?t=eyJhbGciOiJIUzI1NiJ9.eyJjaCI6ImxpdmUiLCJpYXQiOjE3OTU3NzY5MDAsImV4cCI6MTc5NTc3NzIwMH0.BnyV0k6jbWnJBchk0PCwRMR082_epuXFn76CdFYYYbc
 https://snooker900.tv/api/live/1080p/stream.m3u8?t=eyJhbGciOiJIUzI1NiJ9.eyJjaCI6ImxpdmUiLCJpYXQiOjE3OTU3Nzc5ODAsImV4cCI6MTc5NTc3ODI4MH0.XGHHPuqydtYzaDiQzRthhiMgO99Zdhh7FMFuvxxq4K0
