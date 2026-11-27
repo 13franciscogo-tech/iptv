@@ -2,6 +2,28 @@
 
 ###  Andalucia ###
 
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://canalcostatv.es/wp-content/uploads/2020/06/logo-cabecera-cc.png",Canal Costa
+
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",7TV Cádiz
+https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cocina Andalucía
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cartaya TV
+https://video3.lhdserver.es/cartayatv/live.m3u8
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",CanalCosta (1080p)
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleonuba",Teleonuba
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/chunklist_w1875138135.m3u8
+#EXTINF:-1 tvg-id="Teleonuba",Huelva conecta
+https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
+#EXTINF:-1 tvg-id="CostaNoroesteTV.es@SD",Costa Noroeste TV (1080p) [Not 24/7]
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 tvg-id="Mijas340TV.es@SD",Mijas 3.40TV (720p)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 group-title="Andaluces",Mijas Costa
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
 ### España  ###
 
@@ -18,8 +40,7 @@ https://italiansport-solocalcio-samsung.amagi.tv/ts-us-e2-n1/playlist/sportital-
 
 
 ### Mundo  ###
-
-#EXTINF:-1 tvg-id="China",CGTN Live (inglés)
+#EXTINF:-1 group-title="China" tvg-logo="https://imgs.search.brave.com/WSLkxPHSAezbamAK3segNIgFRLKEFk4QNOOJWFiMl5A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZhL0Zs/YWdfb2ZfdGhlX1Bl/b3BsZSUyN3NfUmVw/dWJsaWNfb2ZfQ2hp/bmEuc3ZnLzUwMHB4/LUZsYWdfb2ZfdGhl/X1Blb3BsZSUyN3Nf/UmVwdWJsaWNfb2Zf/Q2hpbmEuc3ZnLnBu/Zw",CGTN Live (inglés)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master480p.m3u8
 
 ###  Deportes ###
@@ -29,27 +50,7 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master480p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CanalCosta.es@SD",7TV Cádiz
-https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
-#EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cocina Andalucía
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cartaya TV
-https://video3.lhdserver.es/cartayatv/live.m3u8
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-id="CanalCosta.es@SD",CanalCosta (1080p)
-https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
-https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleonuba",Teleonuba
-https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/chunklist_w1875138135.m3u8
-#EXTINF:-1 tvg-id="Teleonuba",Huelva conecta
-https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
 
-#EXTINF:-1 tvg-id="CostaNoroesteTV.es@SD",Costa Noroeste TV (1080p) [Not 24/7]
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:-1 tvg-id="Mijas340TV.es@SD",Mijas 3.40TV (720p)
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 group-title="Andaluces",Mijas Costa
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
 #EXTINF:-1 group-title="España",Ceuta TV
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(X3jah1H7KasmpMSAe11IKyl6pz6bWBNXTxgYl2rW5p_Y9_xci2q3Tx6R_FuvWuCOlb_WKqv1fkzcdClWv4IaUHL-7gkRiIefsqLx8eispM3ekcB2YL-DFpfI7-ciU1RV75inmkMHYkgNO2tlbsx00tYLCqZpEF3pVqF8pUpByso4y0E05QEFNH20MFktb_kI)/cloud/3/x9f7miq/d/live-h264-720.m3u8
