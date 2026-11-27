@@ -269,6 +269,8 @@ https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almagh
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/1f57cb9d-3dd1-469a-a9c1-f64cefa1f406/3.m3u8
 #EXTINF:-1 tvg-id="Marruecos",Medi TV
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/corp/83_medi1tv-arabic_g90v4ec_1080p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="Gibraltar",Gibraltar TV
+https://live-ak.vimeocdn.com/exp=1795779415~acl=%2F498a9bea-d840-4b9a-8b45-37bb853a6873%2F%2A~hmac=913e5c66a015d62a95326c137b366fe5d69f3a4e53cd55d7b4566ed5fd2b1e96/498a9bea-d840-4b9a-8b45-37bb853a6873/avc/360p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Gibraltar - Paso fronterizo 1
 https://e1-eu8.angelcam.com/cameras/2731/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3OTU3NzU0MTksIm5iZiI6MTc5NTc3NTI5OSwiZXhwIjoxNzk1NzgyNjE5LCJkaWQiOiIyNzMxIn0%2E3KAz%2DMCUYTY58Ml%2DI8Z9%2D6fb7SkfzJrCDn0iJLLpaG4
