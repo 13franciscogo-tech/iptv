@@ -3,8 +3,8 @@
 ###  Andalucia ###
 
 #EXTINF:-1 group-title="Andalucía" tvg-logo="https://canalcostatv.es/wp-content/uploads/2020/06/logo-cabecera-cc.png",Canal Costa
-
-#EXTINF:-1 tvg-id="CanalCosta.es@SD",7TV Cádiz
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
+#EXTINF:-1 tvg-id="7tv cai?",7TV Cádiz
 https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
 #EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cocina Andalucía
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
