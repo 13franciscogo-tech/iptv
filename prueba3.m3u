@@ -169,8 +169,8 @@ http://138.121.15.230:9002/FRANCE-24/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Spanish (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo (720p)
-#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (1080p)
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-id="GN Britain",GNB
+https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnewsnz-samsungnz/cb57341b657465909bcb3978d1f643828e7b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c69484d168b59822966928c01f1152b791473849bb46bc1e26a6dcfa4133a76ea214b41895b468b7a4a32fae108078838fa28504ba65920067cddfd3afc200387d9158e7c2e95aedb732d7e5d5d9f5b55b0a543f6aee55b58d96df7b00140957b10fa8544ced314ed87d55b9f4482145625a7b0c80a7cb9b3a6a0499b22d1766c6b327c908e0be2a33f93efeaa5bd011352203b40f4ac83fb3451eef19f81998dad8564f21cdc8867fc08930eabf93de613a611d82aa6f25aa9a1b7da024037a08477648473ebe2fb9380ef600789c0d3fc091aa3f7197755c827bf484e6cc9ad9945d6877d3ed752e5d4097d5860b565e2d5dde83a76143c3c6fa7e2e18a32524b2c2903824fab9e572848b77d85c10928504145e2cf1b94c69166613314c6ac57da0603f9c3d3d5e0586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b87ae4cf9236c1752f3c12d59445e749fbb355a7e2a953783b9afcd7e0715f48d8c94a67437083e1b5776e5c1ef629483c5695056ed5a28756c5270b201c562cb0f590a4f90feb223f7b13d604dbea3efce699cd12675eeaf607b6f6b/9/640x360_1020800/index.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RTenEspanol.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT.ru.png",RT en español
