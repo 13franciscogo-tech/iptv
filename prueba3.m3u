@@ -272,6 +272,8 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/corp/83_med
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Gibraltar - Paso fronterizo 1
 https://e1-eu8.angelcam.com/cameras/2731/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3OTU3NzU0MTksIm5iZiI6MTc5NTc3NTI5OSwiZXhwIjoxNzk1NzgyNjE5LCJkaWQiOiIyNzMxIn0%2E3KAz%2DMCUYTY58Ml%2DI8Z9%2D6fb7SkfzJrCDn0iJLLpaG4
+#EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Gibraltar - Paso fronterizo 2
+https://e1-eu8.angelcam.com/cameras/2730/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3OTU3NzU0MTksIm5iZiI6MTc5NTc3NTI5OSwiZXhwIjoxNzk1NzgyNjE5LCJkaWQiOiIyNzMwIn0%2EeomxcFLEdnQjeTDLTEmcc50kpJZxyrsSKvJdl6%2Dy%5FOs
 
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia do Norte
