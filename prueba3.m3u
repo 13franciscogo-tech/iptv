@@ -262,6 +262,9 @@ https://video-auth1.iol.pt/beachcam/bcarcanjopraia/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Praia da Vila
 https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
 
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,NAME="720p"
+chunklist_w657025131_b2560000_t64NzIwcA==.m3u8?nimblesessionid=2024632208
+
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Porto de Abrigo
 https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Sagres
