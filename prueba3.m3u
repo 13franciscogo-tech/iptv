@@ -6,8 +6,24 @@
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_1_normal.png",Onda Cádiz TV
+https://ondacadiztv.es:30443/octv/directo_multi/octv/directo_720p/chunks.m3u8
+
 #EXTINF:-1 group-title="Andalucía" tvg-logo="https://imgs.search.brave.com/zSJD-rHXeOdvJTgKV4PiP4MaW4bxvOVK_lmFpPguSks/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZkL0Nh/bmFsU3VyMS5zdmcv/MjUwcHgtQ2FuYWxT/dXIxLnN2Zy5wbmc",Canal Cocina Andalucía
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://imgs.search.brave.com/K4vq1aqZi1sWQX4CMADs77yfcnk4rxLQZsHPB4cqqYc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDA2ZTI5ZjA1/MGM1NjVkODczYmQ2/ZTFlMWRmNDY4Njk2/NDQwNzM5MTZmMzk0/OWUxNjAwMWZiMGQ1/NGNhMjU5ZC93d3cu/N3R2YW5kYWx1Y2lh/LmVzLw",Cordoba 7TV
+https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://imgs.search.brave.com/0tQXxKnXJISS_p8AxHTBlcmQAETe0epdWZqM9QgYq54/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzk1OGVlZmRj/YjdkNjZmOTlkNjlj/MzYyYzQ2YWVlZjJj/NTcxYTgzYTMwODFh/MmZmZTY2NWRlZmFi/OWU2MmRlYS9taWph/c2NvbXVuaWNhY2lv/bi5jb20v",Mijas 3.40TV (720p)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="7tv cai?",7TV Cádiz
 https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
@@ -24,8 +40,7 @@ https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es@SD",Mijas 3.40TV (720p)
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 group-title="Andaluces",Mijas Costa
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
 
 ### España  ###
 
@@ -87,12 +102,7 @@ http://158.172.155.130:8000/play/a0dp/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Andaluces",Mijas 3.40TV (720p)
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 group-title="Andaluces",Cordoba 7TV
-https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
-#EXTINF:-1 group-title="Andaluces",Onda Cádiz TV
-https://ondacadiztv.es:30443/octv/directo_multi/octv/directo_720p/chunks.m3u8
+
 #EXTINF:-1 group-title="España",El último peldaño Onda RM
 https://crmlive.redctnet.es/liveedge/orm/ultimopeldano/playlist.m3u8
 
