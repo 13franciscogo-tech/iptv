@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="Cinema italiano",Cinema italiano
+https://e23926fa.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9DaW5lbWFTZWdyZXRvLTFfSExT/3f92b85b-adc9-4444-af5a-f614b0cc2ea0/0.m3u8
+#EXTINF:-1 tvg-id="Cinema italiano",Alberto Sori e compagnia
+https://5adebbaf.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9SaXNhdGVhbGxpdGFsaWFuYS0xX0hMUw/6d0cf78d-f3a5-498e-8bc3-6dbc15b52ed0/0.m3u8
+
 #EXTINF:-1 tvg-id="CanalCosta.es@SD",7TV Cádiz
 https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
 #EXTINF:-1 tvg-id="CanalCosta.es@SD",Canal Cocina Andalucía
