@@ -127,6 +127,9 @@ http://zntx.dyndns.org:8085/hls/stv7.m3u8
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt@SD",Cadiz CF TV
 https://d3k6ckytm22qfj.cloudfront.net/wct-137a7607-8a40-49cb-b2f3-dda201b86376/continuous/f5ab1872-5cb1-4541-9c67-30ae765453ec/1080p_25fps_h264_high_4.4M_aac_128k.m3u8
+#EXTINF:-1 tvg-id="Racing TV",Carreras caballos
+https://racingvic-ll-i.akamaized.net/out/v1/low-latency-video/racingvic-ll/racingvic-ll-ts/index-ll-ts_1.m3u8
+
 
 
 
