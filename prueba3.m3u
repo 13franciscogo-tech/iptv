@@ -6,6 +6,11 @@
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/_definst_/endirecto/chunklist_w534019085.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://teleonuba.es/wp-content/uploads/2023/01/logo-cabecera-to-gen.png",Teleonuba
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/chunklist_w1875138135.m3u8
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://huelvaconecta.com/wp-content/uploads/2026/09/cropped-logoweb200x200.png",Huelva conecta
+https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
+
 
 
 #EXTINF:-1 group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_1_normal.png",Onda Cádiz TV
@@ -32,10 +37,7 @@ https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
 https://video3.lhdserver.es/cartayatv/live.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-#EXTINF:-1 tvg-id="Teleonuba",Teleonuba
-https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/chunklist_w1875138135.m3u8
-#EXTINF:-1 tvg-id="Teleonuba",Huelva conecta
-https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
+
 #EXTINF:-1 tvg-id="CostaNoroesteTV.es@SD",Costa Noroeste TV (1080p) [Not 24/7]
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es@SD",Mijas 3.40TV (720p)
