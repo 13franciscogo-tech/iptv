@@ -19,6 +19,9 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 #EXTINF:-1 group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_1_normal.png",Onda Cádiz TV
 https://ondacadiztv.es:30443/octv/directo_multi/octv/directo_720p/chunks.m3u8
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://ondacadiz.es/sites/default/files/logo_onda_cadiz_web_120_100_1_normal.png",Onda Cádiz 24h (720p)
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+
 EXTINF:-1 group-title="Andalucía" tvg-logo="https://imgs.search.brave.com/M4phySkGruh53OeUCLm-ZehRzEjr_ywry6ln8eivu5U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kaXJl/Y3Rvc3R2LnRlbGVh/bWUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE2LzAyL0Nv/c3RhLU5vcm9lc3Rl/LVRWLWVuLWRpcmVj/dG8tT25saW5lLUVO/LVZJVk8tNjk2eDM5/Mi5wbmc",Costa Noroeste TV (1080p) [Not 24/7]
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 group-title="Andalucía" tvg-logo="https://imgs.search.brave.com/K4vq1aqZi1sWQX4CMADs77yfcnk4rxLQZsHPB4cqqYc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDA2ZTI5ZjA1/MGM1NjVkODczYmQ2/ZTFlMWRmNDY4Njk2/NDQwNzM5MTZmMzk0/OWUxNjAwMWZiMGQ1/NGNhMjU5ZC93d3cu/N3R2YW5kYWx1Y2lh/LmVzLw",7TV Cádiz
@@ -70,6 +73,24 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/ts-us-e2-n1/
 https://italiansport-solocalcio-samsung.amagi.tv/ts-us-e2-n1/playlist/sportital-solocalcio-samsung-italy/cb57341b657465909bcb3978d1f643828e7b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c69484d168b59822966928c01f1152b791473849bb46bc1e26a6dcfa4133a76ea214b41895b468b7a4a32fae108078838fa28504ba65920067cddfd3afc200387d9158e7c2e95aedb732d7a0b0b9e0c58e7a643f6aee55858d96df7b0011a902814fa8a13cb811fefd6855dc8158f7cd52ea9c5a4cb9132bebcab76ae25c510396a672abdda05f9a15ca6caa5673891745a36743ba3f4b1df7e0cb9696271ddba9c9b3f8479a58d20976934be3b9c46800df807c063e2b66c909e92fb07161dfe84310a23a5f3a989fe0e37b372c6d098b71c39ced4205975ee48ec0d1b0cd5aaef4efaa97c82b51c96a07b1436c7e334f1f2f7d4cd84ae75af11f8eedabf78156a51f363ec2fca4b922248ad19d2ac36121e2877bd9b5ccaf4a83452477af64cda497161dffe9e91d01e3eb00d73ec34bdb8296356cd39636ee46f84f298d9224778e71611812a168151e8b120f9a29be4083ff5f2c2e12c61adc462672adfc81f5e6323c994165e48436fd1a40167552d9a15b68298a51fa1619d97ad9ea0339823196e1a63e03721e9ed2e8a443803d35c36653b3d169216df6de5f3286a2be411c9a5057884497463b6e777650b3dcd889d8889c3d204ad2785f0ab6d667b7873ad3f00116bd19d844db26d1829340ed64f2c689533776ea6d5c5ec92852ee99967a1372b5440cde2184c0c1d223652d5c0268710b2d32eb89dcb4ec5a0d84112cb6ff57377f4b5f065f6f899bd0e65f68d5816609bd65dab5025d518d92ec89f30f4b95b13047e276cc79d5feb50a9d5f8927b7a4d7eb3c6c68cc92963cdc6b3c6ed245933818e0daea2/50/640x360_1020800/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
+https://pirilampotv.top/live-tv/tvi.html
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
+https://pirilampotv.top/live-tv/cmtv.html
+
+#EXTINF:-1 tvg-id="A24.ar@SD",A24 (1080p)
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_240p.m3u8
+
+http://138.59.227.20:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar@SD",TN (1080p)
+http://158.172.155.130:8000/play/a0dp/index.m3u8
+
+
+
+
 ### Mundo  ###
 #EXTINF:-1 group-title="China" tvg-logo="https://imgs.search.brave.com/WSLkxPHSAezbamAK3segNIgFRLKEFk4QNOOJWFiMl5A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZhL0Zs/YWdfb2ZfdGhlX1Bl/b3BsZSUyN3NfUmVw/dWJsaWNfb2ZfQ2hp/bmEuc3ZnLzUwMHB4/LUZsYWdfb2ZfdGhl/X1Blb3BsZSUyN3Nf/UmVwdWJsaWNfb2Zf/Q2hpbmEuc3ZnLnBu/Zw",CGTN Live (inglés)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master480p.m3u8
@@ -94,25 +115,13 @@ https://snooker900.tv/api/live/1080p/stream.m3u8?t=eyJhbGciOiJIUzI1NiJ9.eyJjaCI6
 
 
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
-https://pirilampotv.top/live-tv/tvi.html
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TN_logo_2021.svg" group-title="Argentina", TN - Todo Noticias
-https://pirilampotv.top/live-tv/cmtv.html
-
-#EXTINF:-1 tvg-id="A24.ar@SD",A24 (1080p)
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_240p.m3u8
-
-http://138.59.227.20:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 tvg-id="TN.ar@SD",TN (1080p)
-http://158.172.155.130:8000/play/a0dp/index.m3u8
 
 
 
 
 
-#EXTM3U
+
+
 
 #EXTINF:-1 group-title="España",El último peldaño Onda RM
 https://crmlive.redctnet.es/liveedge/orm/ultimopeldano/playlist.m3u8
@@ -134,8 +143,7 @@ https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="HuelvaTV.es@SD",Huelva TV (720p)
 https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaCadiz.es@SD",Onda Cádiz 24h (720p)
-https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Teleonuba.es@SD",Teleonuba (1080p)
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 
