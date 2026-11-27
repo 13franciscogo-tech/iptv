@@ -303,5 +303,5 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=boc0u07b5qkeh52m5lcqv2s4e9
 
 
 
-#EXT-X-STREAM-INF:BANDWIDTH=2560000,NAME="720p"
-chunklist_w657025131_b2560000_t64NzIwcA==.m3u8?nimblesessionid=2024632208
+#EXTINF:-1 group-title="Guinea Ecuatorial",TVGE
+https://rpn.bozztv.com/ses/tvge/tvge.smil/chunklist_w56782799_b2560000_t64NzIwcA==.m3u8
